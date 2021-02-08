@@ -1,6 +1,6 @@
 :construction: Under Construction! :construction:
 ## Symion Edwards
-After working and living abroad, I am at the beginning of an exciting career change into the world of tech, and am currently completing a 12 week full-stack developer bootcamp at Makers Academy. Having had roles within the public sector and education, I am all too familiar with working with antiquated systems, which has fuelled my desire to learn to use my logic and creativity to build usable and intuitive products. 
+Hello! I'm Symion, a junior full stack developer and recent Makers Academy graduate. A career-changer, with extensive experience within higher education and the public sector, I am eager to continue my venture into the world of tech, using my  logic and creativity to build usable and intuitive products. 
 
 ## Projects
 
@@ -23,7 +23,7 @@ _Intern_
 
 ## Skills
 #### Communicator
-Studying Biology at University helped develop my analytical and research skills, and taught me to approach problems methodically and rationally. I have an aptitude for assimilating information, statistical analysis and written communication. This is exemplified by my third year research project, in which I investigated the effects of altering culture conditions on antibiotic production in genetically modified strains of the fungi. I have carried through this rigorous approach and applied it to my professional career, having recently supported the University of East Anglia’s Sustainability, Utilities and Engineering team research, edit and write their annual environmental report. I also keep a [blog](https://medium.com/@symion.edwards) :eyes:.
+I have channelled my passion for written communication through my personal blog, where I have shared articles through Medium's largest publication, the Start-up, with over 700,000 active followers, as well as winning the bi-annual Maker's blogging competition. My aptitude for confident and concise communication stems from my science background, whereby my Biology degree helped develop my analytical and research skills, and taught me to approach problems methodically and rationally. I have an aptitude for assimilating information, statistical analysis and written communication.  I have carried through this rigorous approach and applied it to my professional career, having recently supported the University of East Anglia’s Sustainability, Utilities and Engineering team research, edit and write their annual environmental report. [Medium](https://medium.com/@symion.edwards) :eyes:.
 
 #### Initiator 
 After graduating from University I moved to Vancouver to experience a new city and culture.  Keen to get the most out of the situation, I threw myself into volunteering opportunities, lending my spare time to the local Food Bank and the Vancouver International Film Festival and managed to build a home away from home.  
