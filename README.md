@@ -1,6 +1,6 @@
 :construction: Under Construction! :construction:
 ## Symion Edwards
-Hello! I'm Symion, a junior full stack developer and recent Makers Academy graduate. A career-changer, with extensive experience within higher education and the public sector, I am eager to continue my venture into the world of tech, using my  logic and creativity to build usable and intuitive products. 
+Hello! I'm Symion, a junior full stack developer and recent Makers Academy graduate. A career-changer, with extensive experience within higher education and the public sector, I am eager to continue my venture into the world of tech, using logic and creativity to build usable and intuitive products. 
 
 ## Projects
 
