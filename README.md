@@ -16,7 +16,7 @@
 
 
 #
-Hello! I'm Symion, a junior full stack developer and recent Makers Academy graduate. With a commitment to self-improvement, over the last 6 months I have gained experience with an assortment of technologies as well as principles such as OOP, TDD, version control and Agile practices. A career-changer, with extensive experience within higher education and the public sector, I am eager to continue my venture into the world of tech, using my logic and creativity to build usable and intuitive products. 
+Hello! I'm Symion, a junior full stack developer and recent Makers Academy graduate. With a commitment to self-improvement, over the last 6 months I have taken a dive head-first into the world of tech, eagerly gaining experience with a wide variety of technologies as well as practiced principles such as OOP, TDD, version control and Agile workflow. A career-changer, with extensive experience within higher education and the public sector, I am eager to continue my coding venture using my logic and creativity to build usable and intuitive products. 
 
 
 
@@ -24,7 +24,7 @@ Hello! I'm Symion, a junior full stack developer and recent Makers Academy gradu
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
+| **Triffid**            | Never kill your houseplants again! Built for my Makers final project, Triffid is a houseplant monitoring mobile app to help users keep track of their leafy friends. Built with a REST backend using Node.js and Express.js, Triffid uses React native for the front end allowing use on both iOS and Android devices. Features include JWT authentication, the ability to add plants to a personal 'terrarium', and a connection to the Trefle API plant database.  | React, Jest, etc. |
 | **Something else worked on** | A webapp to do y. | Ruby              |
 
 ## Experience
