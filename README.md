@@ -7,7 +7,7 @@
 <img src="https://cdn1.iconfinder.com/data/icons/social-media-outline-6/128/SocialMedia_Website-Outline-512.png" alt="website" hspace="50" height="42" width="42"></a>
 
 <a href="https://symion-edwards.medium.com/">
-<img src="https://cdn1.iconfinder.com/data/icons/social-media-circle-7/512/Circled_Medium_svg5-512.png" alt="medium" hspace="50" height="42" width="42"></a>
+<img src="https://cdn1.iconfinder.com/data/icons/social-media-circle-7/512/Circled_Medium_svg5-512.png" alt="medium" hspace="50" height="38" width="38"></a>
 
 <a href="https://www.linkedin.com/in/symion-edwards-433158109/">
 <img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
