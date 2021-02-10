@@ -14,7 +14,7 @@
 
 
 </div>
-<br>
+
 
 #
 Hello! I'm Symion, a junior full stack developer and recent Makers Academy graduate. With a commitment to self-improvement, over the last 6 months I have gained experience with an assortment of technologies as well as principles such as OOP, TDD, version control and Agile practices. A career-changer, with extensive experience within higher education and the public sector, I am eager to continue my venture into the world of tech, using my logic and creativity to build usable and intuitive products. 
