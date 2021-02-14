@@ -25,7 +25,7 @@ Hello! I'm Symion, a junior full stack developer and recent Makers Academy gradu
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | **[Triffid](https://github.com/samanthagottlieb/triffid)**            | Never kill your houseplants again! Built for my Makers final project, Triffid is a houseplant monitoring app designed to help users keep track of their leafy friends. We used Node.js and Express.js to create a fully RESTful backend, and React Native for the interface, facilitating use on both iOS and Android devices. Features include JWT authentication, the ability to add plants to a personal 'terrarium', and a connection to the Trefle API plant database. Read about my personal experience on this project **[here](https://symion-edwards.medium.com/week-of-the-triffids-building-a-houseplant-app-for-my-bootcamp-final-project-225b59c816f7)**.   | MongoDB, Express.JS, React Native, Node.js, JWT, Jest, [Trefle API](https://trefle.io/)|
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| **[Bragbook](https://github.com/CodeZeus-dev/acebook-SassBook)** | Finally, a social media platform unashamedly transparent with its intensions! Bragbook is a full stack Rails Facebook clone designed to make showing off about your life easy. This two week group project was my first introduction to the Ruby on Rails framework.  We worked in two day sprints using Agile processes, and followed CI/CD pipelines for rapid integration. Users can create an account, upload a profile picture, create/update/delete/edit posts, like and comment on posts and add friends. | Ruby on Rails, Rspec, Capybara, HTML, CSS, Bootstrap, Travis CI, Heroku |
 
 ## Experience
 
