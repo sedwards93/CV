@@ -16,7 +16,7 @@
 
 
 #
-Hello! I'm Symion, a junior full stack developer and recent Makers Academy graduate. With a commitment to self-improvement, over the last 6 months I have taken a dive head-first into the world of tech, eagerly gaining experience with a wide variety of technologies as well as practiced principles such as OOP, TDD, version control and Agile workflow. A career-changer, with extensive experience within higher education and the public sector, I am eager to continue my coding venture using my logic and creativity to build usable and intuitive products. 
+Hello! I'm Symion, a junior full stack developer and recent Makers Academy graduate. With a commitment to self-improvement, over the last 6 months I have taken a dive head-first into the world of tech, eagerly gaining experience with a wide variety of technologies as well as practicing principles such as OOP, TDD, version control and Agile workflow. A career-changer, with extensive experience within higher education and the public sector, I am eager to continue my coding venture using my logic and creativity to build usable and intuitive products. 
 
 
 
@@ -24,7 +24,7 @@ Hello! I'm Symion, a junior full stack developer and recent Makers Academy gradu
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Triffid**            | Never kill your houseplants again! Built for my Makers final project, Triffid is a houseplant monitoring mobile app to help users keep track of their leafy friends. Built with a REST backend using Node.js and Express.js, Triffid uses React native for the front end allowing use on both iOS and Android devices. Features include JWT authentication, the ability to add plants to a personal 'terrarium', and a connection to the Trefle API plant database.  | React, Jest, etc. |
+| **[Triffid](https://github.com/samanthagottlieb/triffid)**            | Never kill your houseplants again! Built for my Makers final project, Triffid is a houseplant monitoring app designed to help users keep track of their leafy friends. We used Node.js and Express.js to create a fully RESTful backend, and React Native for the interface, facilitating use on both iOS and Android devices. Features include JWT authentication, the ability to add plants to a personal 'terrarium', and a connection to the Trefle API plant database. Read about my personal experience on this project **[here](https://symion-edwards.medium.com/week-of-the-triffids-building-a-houseplant-app-for-my-bootcamp-final-project-225b59c816f7)**.   | MongoDB, Express.JS, React Native, Node.js, JWT, Jest, [Trefle API](https://trefle.io/)|
 | **Something else worked on** | A webapp to do y. | Ruby              |
 
 ## Experience
