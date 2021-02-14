@@ -29,6 +29,15 @@ Hello! I'm Symion, a junior full stack developer and recent Makers Academy gradu
 | **[Sym's Pins](https://github.com/sedwards93/bowling-challenge)** | Who knew that the logic behind 10 pin bowling was so intricate?! Sym's Pins is my attempt creating a bowling scorecard that allows a user to keep track of their score across a 10 frame game of bowling. Test-driven with the Jasmine framework, and written using JavaScript ES6 classes, this project was my first dive into object orientated design in JavaScript. The user interface is written using HTML, CSS and the jQuery library for JavaScript. The app is deployed on [Heroku.](https://sympinbowling.herokuapp.com/) | JavaScript, jQuery, Jasmine, HTML, CSS, Heroku |
 | **[symion.co.uk](https://github.com/sedwards93/symion.co.uk)** | An exercise in design, I worked on this single page application to refine my front end design process. Through creating website mock-ups using Figma, I was able to see through my design from conception to completion, creating a fully-responsive splash-screen website with links to my professional socials. I deployed my serverless website using [Netlify.](https://www.symion.co.uk/)  | Figma, HTML, CSS, JavaScript, Netlify |
 
+## Skills
+#### Communicator
+I have channelled my passion for communication through my personal blog, where I published articles through Medium's largest publication, the Start-up, with over 700,000 active followers, as well as winning the bi-annual Maker's blogging competition. My aptitude for confident and concise communication stems from my science background, whereby my Biology degree helped develop my analytical and research skills, and taught me to approach problems methodically and rationally. I have carried through my aptitude for assimilating information and written communication into my coding process, as well as professional career, having recently supported the University of East Anglia’s Sustainability, Utilities and Engineering team research, edit and write their annual environmental report.
+
+#### Initiator 
+After graduating from University I moved to Vancouver to experience a new city and culture.  Keen to get the most out of the situation, I threw myself into volunteering opportunities, lending my spare time to the local Food Bank and the Vancouver International Film Festival and managed to build a home away from home.  
+
+
+
 ## Experience
 
 **Norfolk County Council / University of East Anglia** (May 2019 – October 2020)  
@@ -41,12 +50,7 @@ _Intern_
 
 - 
 
-## Skills
-#### Communicator
-I have channelled my passion for written communication through my personal blog, where I have shared articles through Medium's largest publication, the Start-up, with over 700,000 active followers, as well as winning the bi-annual Maker's blogging competition. My aptitude for confident and concise communication stems from my science background, whereby my Biology degree helped develop my analytical and research skills, and taught me to approach problems methodically and rationally. I have an aptitude for assimilating information, statistical analysis and written communication.  I have carried through this rigorous approach and applied it to my professional career, having recently supported the University of East Anglia’s Sustainability, Utilities and Engineering team research, edit and write their annual environmental report. [Medium](https://medium.com/@symion.edwards) :eyes:.
 
-#### Initiator 
-After graduating from University I moved to Vancouver to experience a new city and culture.  Keen to get the most out of the situation, I threw myself into volunteering opportunities, lending my spare time to the local Food Bank and the Vancouver International Film Festival and managed to build a home away from home.  
 
 ## Education
 
