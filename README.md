@@ -105,7 +105,7 @@ _Follow my course progress [here.](https://github.com/sedwards93/Makers-Progress
 - 2:1
 
 ## Hobbies
-- :movie_camera: Cinema. After moving to the Pacific North West to live out my David Lynch fantasy, I spent many evenings volunteering at Vancouver International Film Festival's independent theatre, which gave me unfettered access to their screenings and popcorn :yum:. I also had some adhoc work as a production assistant on the set of some frightfully romantic Hallmark movies :scream::couplekiss:. 
+- :movie_camera: Cinema. After moving to the Pacific North West to live out my David Lynch fantasy, I spent many evenings volunteering at Vancouver International Film Festival's independent theatre, which gave me unfettered access to their screenings and popcorn :yum:. I also had some ad hoc work as a production assistant on the set of some frightfully romantic Hallmark movies :scream::couplekiss:. 
 - :notes: Music. Growing up, I learned to play the piano and violin, and even sung live at the Royal Albert Hall at the Junior Proms. More recently, I've satisfied my love for music through discovering new bands and artists and going to live concerts (maybe one day again soon?).
 - :sunrise_over_mountains: The outdoors. Living in Vancouver, I had access to one of the most beautiful parts of the world on my doorstep. I made the most of it by spending my weekends hiking, skiing or taking photos on my fujufilm camera :camera:. 
-- :dog2: Animal lover. Shout out to Wesley, my parent's labrador. You bring me so much joy and inspire me to wear my heart on my sleeve :two_hearts:. 
+- :dog2: Animal lover. Shout out to Wesley, my parent's Labrador. You bring me so much joy and inspire me to wear my heart on my sleeve :two_hearts:. 
