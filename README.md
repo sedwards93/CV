@@ -40,17 +40,47 @@ After graduating from University I moved to Vancouver to experience a new city a
 
 ## Experience
 
+
 **Norfolk County Council / University of East Anglia** (May 2019 – October 2020)  
 _Business Support_
 
-- 
+- PA to director of property / assistant director of children's social care at Norfolk County Council
+- Secretariat for regional corporate property working group
+- Researched and drafted reports for auditing
+- Key liaison to external contractors 
+- Streamlined team’s accounts payable protocol.
+
+**BBC Radio Scotland Work Experience** (February 2019 – July 2019)  
+_Research Assistant to Freelance Radio Broadcaster_
+
+- Researched and fact-checked information for broadcast   
+- Drafted reports for production staff
+- Transcribed radio broadcasts for archiving purposes.
+
+**University of British Columbia** (January 2018 – January 2019)  
+_Various_
+
+- Placements to support departments within the University of British Columbia during recruitment
+- Roles included: Project Analyst, Senior Program Assistant, Resource Coordinator and Student Information Support.
+
+**Robert Half Agency** (August 2017 – January 2018)  
+_Administrative Assistant_
+
+- Directly handled customer enquiries and complaints, took meeting minutes, managed and distributed internal reports and databases.
 
 **Time Partners** (January 2017 – June 2017)  
-_Intern_
+_Analyst Intern_
 
-- 
+- Interned as an analyst at a boutique private equity firm and provided support across all business lines, including special situations investing, corporate finance, fund placement and advisory
+- Screened potential investors, conducted market analysis, assisted with due diligence analysis and presented findings in reports for internal distribution
+- Managed profiles and tracking of client groups in CRM. 
 
+**The Stationery Office** (September 2016 – November 2016)  
+_Freelance Assistant Copy Editor_
 
+- Assisted in editing and cross-referencing printed and digital content for the UK Driver and Vehicle Standards Agency (DVSA)   
+- Ensured formatting, content and grammatical consistency between transcripts, in line with house-style
+- Developed standard email templates to distribute new DVSA software to anti-virus companies.
 
 ## Education
 
@@ -59,9 +89,9 @@ _Intern_
 - JavaScript, React, React Native, Node.js, Express, jQuery, Jest, Jasmine
 - Ruby, Rails, Sinatra, RSPEC, Capybara
 - SQL, PostgreSQL, MongoDB
-- HTML, CSS
-- Agile / XP
-- OOP, TDD, MVC, CI
+- HTML, CSS, Figma
+- Agile, OOP, TDD, MVC, CI
+- Heroku, Netlify
 
 #### University of Bristol (2013 - 2016)
 
