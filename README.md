@@ -16,7 +16,7 @@
 
 
 #
-Hello! I'm Symion, a junior full stack developer and recent Makers Academy graduate. With a commitment to self-improvement, over the last 6 months I have taken a dive head-first into the world of tech, eagerly gaining experience with a wide variety of technologies as well as practicing principles such as OOP, TDD, version control and Agile workflow. A career-changer, with extensive experience within higher education and the public sector, I am eager to continue my coding venture using my logic and creativity to build usable and intuitive products. 
+Hello! I'm Symion, a junior full stack developer and recent Makers Academy graduate. With a commitment to self-improvement, over the last 6 months I have taken a dive head-first into the world of tech, eagerly gaining experience with a wide variety of technologies as well as practicing principles such as OOP, TDD, version control and Agile. A career-changer, with extensive experience within higher education and the public sector, I am eager to continue my coding venture using my logic and creativity to build usable and intuitive products. 
 
 
 
