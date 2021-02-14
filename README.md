@@ -30,11 +30,16 @@ Hello! I'm Symion, a junior full stack developer and recent Makers Academy gradu
 | **[symion.co.uk](https://github.com/sedwards93/symion.co.uk)** | An exercise in design, I worked on this single page application to refine my front end design process. Through creating website mock-ups using Figma, I was able to see through my design from conception to completion, creating a fully-responsive splash-screen website with links to my professional socials. I deployed my serverless website using [Netlify.](https://www.symion.co.uk/)  | Figma, HTML, CSS, JavaScript, Netlify |
 
 ## Skills
+
 #### Communicator
-I have channelled my passion for communication through my personal blog, where I have written articles for Medium's largest publication, the Start-up, with over 700,000 active followers, as well as winning the bi-annual Maker's blogging competition. My aptitude for confident and concise communication stems from my science background, in which my Biology degree helped develop my analytical and research skills, and taught me to approach problems methodically and rationally. I have carried through my aptitude for assimilating information and written communication into my coding process, as well as professional career, having recently supported the University of East Anglia’s Sustainability, Utilities and Engineering team research, edit and write their annual environmental report.
+I have channelled my passion for communication through my personal blog, where I have written articles for Medium's largest publication, the Start-up, and won the bi-annual Maker's blogging competition. My aptitude for confident and concise communication stems from my science background, in which my Biology degree helped develop my analytical and research skills and taught me to approach problems methodically and rationally. I have carried through my aptitude for assimilating information and written communication into my coding process as well as professional career, having recently supported the University of East Anglia’s Sustainability, Utilities and Engineering team research, edit and write their annual environmental report.
+
+#### Stickler for detail
+I have an attentive eye for detail, reinforced by my extensive office experience. I take satisfaction in working productively, which I demonstrated during my time at Norfolk County Council, where I automated some of my responsibilities using basic Excel macros. My secretarial responsibilities strengthened my appreciation for the importance of time management and working to deadlines, which I have continued to apply to my coding process, and has helped keep structure and motivation to my post-Makers routine. My detailed-orientated approach to work has proven beneficial to my debugging process, in which my rigorous and systematic eye for detail helps me get to the bottom of an errors quickly.
+
 
 #### Initiator 
-After graduating from University I moved to Vancouver to experience a new city and culture.  Keen to get the most out of the situation, I threw myself into volunteering opportunities, lending my spare time to the local Food Bank and the Vancouver International Film Festival and managed to build a home away from home.  
+After graduating from University I moved to Vancouver to experience a new city and culture. Keen to get the most out of the situation, I threw myself into work and volunteering opportunities, lending my spare time to the local Food Bank and the Vancouver International Film Festival. My adaptability and willingness to embrace this daunting change paid off, as I managed to build a strong support network and home away from home. My decision to enroll at Makers and embark on a career change into tech is owed party to the confidence I gained from my experience abroad. 
 
 
 
@@ -85,6 +90,7 @@ _Freelance Assistant Copy Editor_
 ## Education
 
 #### Makers Academy (October 2020 to February 2021)
+_Follow my course progress [here.[(https://github.com/sedwards93/Makers-Progress-Tracker)_
 
 - JavaScript, React, React Native, Node.js, Express, jQuery, Jest, Jasmine
 - Ruby, Rails, Sinatra, RSPEC, Capybara
