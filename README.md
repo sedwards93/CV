@@ -90,7 +90,7 @@ _Freelance Assistant Copy Editor_
 ## Education
 
 #### Makers Academy (October 2020 to February 2021)
-_Follow my course progress [here.[(https://github.com/sedwards93/Makers-Progress-Tracker)_
+_Follow my course progress [here.](https://github.com/sedwards93/Makers-Progress-Tracker)_
 
 - JavaScript, React, React Native, Node.js, Express, jQuery, Jest, Jasmine
 - Ruby, Rails, Sinatra, RSPEC, Capybara
